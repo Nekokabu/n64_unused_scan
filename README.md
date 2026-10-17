@@ -1,6 +1,7 @@
 # n64_unused_scan
 N64 未使用メモリ検索ツール
-N64 未使用メモリ検索ツール  v1.0
+
+<img width="822" height="752" alt="n64_unused_scan" src="https://github.com/user-attachments/assets/be706322-f718-4273-b8f8-31a9ea281e12" />
 
 実行中の N64 エミュレータ (Project64 / mupen64plus 系 / RetroArch / ares など) の
 プロセスにアタッチして RDRAM を繰り返し読み取り、「開始」から「停止」までの間に
